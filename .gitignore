@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak_codexmodels
+ChatGPT.app.orig/
+model-catalog.json
+*.log
